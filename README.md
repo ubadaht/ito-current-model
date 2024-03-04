@@ -1,4 +1,4 @@
-#Markov Model and Hodgkin-Huxley Formulations: Equivalence Testing Through Voltage Step Stimulation
+# Markov Model and Hodgkin-Huxley Formulations: Equivalence Testing Through Voltage Step Stimulation
 ## Computational Cardiology Project
 
 This project was completed as part of the **Computational Cardiology** course at the **University of Bologna**, within the **Masters in Biomedical Engineering** program, during the **Academic Year 2023/2024**.
